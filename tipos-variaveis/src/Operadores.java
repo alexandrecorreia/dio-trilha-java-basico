@@ -44,5 +44,10 @@ public class Operadores {
         idade++;
         System.out.println( " 6 " + ( idade <= 100 ? "SIm" : "Nao" ));
 
+        System.out.println( true && true );
+        System.out.println( false || true );
+        System.out.println( true || false );
+        System.out.println( false || false );
+
     }
 }
