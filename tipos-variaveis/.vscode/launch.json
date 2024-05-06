@@ -1,0 +1,23 @@
+{
+    "version":"0.2.0",
+    "configurations":[
+        {
+            "type": "java",
+            "name": "Argumentos2",
+            "request": "launch",
+            "mainClass": "Argumentos2",
+            "projectName": "tipos-variaveis_67b54abf"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "Argumentos",
+            "args": [
+                "oi",
+                "Correia",
+                "47",
+                "1.77"
+            ]
+        }
+    ]
+}
